@@ -4,7 +4,7 @@ Claude code is an AI agent that is developed by the company called "Anthropic".
 ### Difference between an AI assistant and AI agent?  
 * On daily basis, we will go to chatgpt which is an AI assistant and you can ask a question and it will answer.For example, if you are given a to-do python application, it will tell you to do some steps which literally needs human intervention.  
 * An AI agent will execute end to end tasks when you give a to-do python application without human intervention by giving the url as final result.
-* Examples for AI Agents:Codex,copilot from github.  
+* Examples for AI Agents:Codex,copilot from github etc.,
 
 ## Why Claude code?  
 - When Claude code was launched, it was launched as simple CLI tool.Developers and devops engineers liked it because they have the agent running within the terminal instead of running it somewhere.  
