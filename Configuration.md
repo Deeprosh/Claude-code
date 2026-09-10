@@ -17,3 +17,21 @@ Using */permissions* command we can customize the permissions
 Go to deny->click on "Add a new rule"
 Here you can paste the permission rule.
 ~~~
+
+JSON deny permission:
+~~~
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run test:*)",
+      "Bash(git diff:*)",
+      "Read(~/.zshrc)"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Read(./.env)",
+      "WebFetch"
+    ]
+  }
+}
+~~~
