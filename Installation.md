@@ -19,6 +19,7 @@ curl -fsSL https://claude.ai/install.sh | bash
 2. /Usage-To know the claude usage daily, weekly, monthly usage.  
 3. /init-It will create CLAUDE.md file which will provides the guidance to the claude agent about the repository.  
 4. /login-To switch to another account if you have multiple accounts.  
+5. /Clear-To clear the entire session.  
 ~~~
 
 ## Shortcut commands to execute in claude
