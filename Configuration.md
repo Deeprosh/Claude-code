@@ -35,3 +35,9 @@ JSON deny permission:
   }
 }
 ~~~
+
+### When you can define custom permissions?  
+There are 3 levels where you can define custom permissions:  
+**1.Local level(personal)**-Anything which is configured locally that is .claude/settings.local.json-just for you  
+**2.Project settings**-To share the permissions within team we can use this .claude/settings.json-For the team    
+**3.User settings**-Applicable for every calude project that we are doing ~/.claude/settings.json-For everything  
